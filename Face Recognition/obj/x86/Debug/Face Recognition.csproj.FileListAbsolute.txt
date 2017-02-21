@@ -1,0 +1,6 @@
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\Face_Recognition.Properties.Resources.resources
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\Face_Recognition.Training_Form.resources
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\RAJI\Desktop\Face Recognition x86\Face Recognition\obj\x86\Debug\GenerateResource.write.1.tlog
